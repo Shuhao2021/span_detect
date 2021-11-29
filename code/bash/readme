@@ -1,0 +1,2 @@
+在code目录下输入
+bash bash/train.sh  -l 5 -s 42 -c 0 -x 512
